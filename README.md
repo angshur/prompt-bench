@@ -2,7 +2,7 @@
 
 Classy Streamlit UI + SQLite-backed evaluation runner for comparing LLMs on a dashboard summarization task.
 
-## Run locally
+## Run  locally
 ```bash
 python -m venv .venv
 source .venv/bin/activate
